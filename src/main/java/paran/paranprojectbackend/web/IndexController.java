@@ -1,3 +1,4 @@
+/*
 package paran.paranprojectbackend.web;
 
 import lombok.RequiredArgsConstructor;
@@ -33,3 +34,4 @@ public class IndexController {
         return "posts-update";
     }
 }
+*/
