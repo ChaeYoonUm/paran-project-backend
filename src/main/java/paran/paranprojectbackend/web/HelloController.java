@@ -1,4 +1,4 @@
-package paran.paranprojectbackend.web.dto;
+package paran.paranprojectbackend.web;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
