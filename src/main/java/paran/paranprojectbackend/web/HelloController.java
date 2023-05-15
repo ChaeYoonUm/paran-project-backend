@@ -1,4 +1,3 @@
-/*
 package paran.paranprojectbackend.web;
 
 import org.springframework.stereotype.Controller;
@@ -11,4 +10,3 @@ public class HelloController {
         return "index";
     }
 }
-*/
