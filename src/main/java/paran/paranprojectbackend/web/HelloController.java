@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RequiredArgsConstructor
 @Controller
 public class HelloController {
-    @GetMapping("/hello")
+    @GetMapping("/club")
     public String index(){
-        return "hello";
+        return "clubpage";
     }
 }
