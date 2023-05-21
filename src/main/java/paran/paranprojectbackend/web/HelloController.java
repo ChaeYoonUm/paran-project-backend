@@ -10,6 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
     @GetMapping("/club")
     public String index(){
-        return "clubpage";
+        return "clublist";
     }
 }
