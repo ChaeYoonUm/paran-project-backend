@@ -41,9 +41,9 @@ $(document).ready(function (){
     $("select").click(function(){
         update: function (){
             /!*var data = {
-                
+
             }*!/
-            
+
             $.ajax({
                 url: "/api/v1/posts/",
                 type: "get",
@@ -122,4 +122,3 @@ $(document).ready(function (){
         }
     });
 });*/
-
